@@ -95,3 +95,5 @@ console.log(soccerPlayer);
 
 // Accessing a key in an object
 console.log(soccerPlayer.country);
+
+// test 3
